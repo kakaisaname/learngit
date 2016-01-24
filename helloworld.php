@@ -5,5 +5,5 @@ echo $a;
 echo $a."sdad";
 var_dump($a);
 
-$array = array('hello'=>'kaka','where'=>'you are');
+$array = array('hello'=>'kaka','where'=>'you are','world'=>'i');
 var_dump($array);
